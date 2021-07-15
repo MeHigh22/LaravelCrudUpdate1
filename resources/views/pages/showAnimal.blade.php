@@ -1,6 +1,5 @@
 @extends("layouts.index")
 
-
 @section("content")
     <section class="container mt-5">
     <div class="card" style="width: 18rem;">
@@ -17,3 +16,4 @@
       </div>
 </section>
 @endsection
+
